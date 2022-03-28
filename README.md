@@ -1,5 +1,22 @@
 # AMLProject2  
-Final project – Logistic Regression, SVM and Neural Networks  
+
+## Attributes:
+1. Age
+2. Sex
+3. Chest Pain Type
+4. Resting Blood Pressure
+5. Cholesteral
+6. Fasting Blood Sugar
+7. Resting Electrocardiographic Results
+8. Maximum Heart Rate
+9. Exercise Induced Angina
+10. ST Depression Induced By Exercise Relative To Rest
+11. Slope of the peak exercise ST segment
+12. Number of major vessels
+13. thal: 3 = normal; 6 = fixed defect; 7 = reversable defect
+14. Diagnosis of heart disease (predicted)
+
+## Final project – Logistic Regression, SVM and Neural Networks  
 
 For project 1, you selected a data set and investigated how kNN classifier could help with
 classifying testing samples after training/learning. For project 2, you will be continuing your
@@ -10,19 +27,19 @@ This project is to be done in a group. Each student is responsible for contribut
 including problem formulation, dataset selection, ML tool implementation, and project
 presentation.  
 
-Requirement:
+### Requirement:
 1. Source code in Python (done in a group). Your code must run on CS lab machines.
 2. Individual project report (~6 pages + appendices if needed, fonts>=11)  
 
-Specific requirements:  
-Dataset:
+### Specific requirements:  
+### Dataset:
 1. Each group needs to pick a new dataset to work on.
 2. Dataset must be interesting and challenging (if the accuracy is very high, say 99% using
 a knn or very low (<50%), select a different dataset! That means either the problem can
 be solved without any machine learning algorithm or beyond what we have learned in
 this class.)  
 
-Your individual report that includes:  
+### Your individual report that includes:  
 Abstract - Give a brief presentation of the problem, dataset used, summarize the
 methods, and outline your results and conclusions.  
 1. Introduction - Detailed problem description and background of the dataset. Justify the
@@ -49,14 +66,14 @@ support vector machine, and neural nets, and compare SVM with linear kernel and 
 with Gaussian kernel. One page per model. So, 3 additional pages.  
 8. References  
 
-Demo:  
+## Demo:  
 Your Python script.  
 Here are some sample datasets:  
 1. Flight Delays and Cancellations: https://www.kaggle.com/usdot/flight-delays  
 2. Heart Disease Data Set: https://archive.ics.uci.edu/ml/datasets/Heart+Disease  
 3. MIT Leukemia cancer dataset: http://portals.broadinstitute.org/cgibin/cancer/publications/pub_paper.cgi?mode=view&paper_id=43  
 
-Submission instructions:  
+## Submission instructions:  
 This project has multiple due dates, tentatively:  
 1) March 9th: Dataset selection  
 2) March 30: Intro, Stats section of your individual report (words or pdf)  
