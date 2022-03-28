@@ -1,7 +1,7 @@
 import pandas as pd
 
 # separating fruits
-fruits = pd.read_csv('fruit_data_with_colors.txt', sep='\t')
+fruits = pd.read_csv('heart.csv', sep='\t')
 lookup_fruit_name = dict(zip(fruits.fruit_label.unique(), fruits.fruit_name.unique()))
 
 fruits.head()
